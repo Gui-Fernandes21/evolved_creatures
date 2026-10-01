@@ -1,0 +1,14 @@
+{
+  "pop_size": 20,
+  "gene_count": 5,
+  "generations": 10,
+  "iterations": 2400,
+  "point_mutate_rate": 0.1,
+  "point_mutate_amount": 0.25,
+  "shrink_mutate_rate": 0.25,
+  "grow_mutate_rate": 0.1,
+  "fitness_epsilon": 0.0001,
+  "freeze_prefixes": [],
+  "allow_grow_shrink": true,
+  "seed": 0
+}

@@ -1,0 +1,12 @@
+{
+  "pop_size": 150,
+  "gene_count": 3,
+  "generations": 150,
+  "iterations": 2400,
+  "point_mutate_rate": 0.1,
+  "point_mutate_amount": 0.25,
+  "shrink_mutate_rate": 0.25,
+  "grow_mutate_rate": 0.1,
+  "fitness_epsilon": 0.0001,
+  "seed": 0
+}
